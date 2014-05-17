@@ -1,4 +1,8 @@
-/** 628 - Passwords(Combinaciones en base a reglas) - Problema de Recursividad. */
+/*
+    UVA Problem 620 - Passwords.
+    Recursive Problem.
+    Combinations based on rules.
+*/
 #include<iostream>
 #include<vector>
 

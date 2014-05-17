@@ -1,4 +1,9 @@
-/** 10651 Pebble Solitaire(Juego de piedras y cavidades) - Problema de Recursividad. */
+/*
+    UVA Problem 10651 - Pebble Solitaire.
+    Recursive Problem,
+    Set stones and cavities. Find the minimum number of pebbles left on the
+    board possible to obtain as a result of moves.
+*/
 #include<iostream>
 #include<cstring>
 

@@ -1,4 +1,8 @@
-/** 10190 - Divide, But Not Quite Conquer!. Dividir y mostrar divisores(solo si es divisible exacto hasta 1 */
+/*
+    UVA Problem 10190 - Divide, But Not Quite Conquer!.
+    Recursive Problem.
+    Show all divisors only if n% m == 0.
+*/
 #include<iostream>
 #include<string>
 #include<sstream>
